@@ -11,4 +11,7 @@ The BSD licensed prebuilt Windows binary version of uuu is statically linked wit
 # Maintainer
 
 Aurélien BOUIN
-CAPTINA SARL
+
+https://captina.dev
+
+CAPTINA S.A.R.L
